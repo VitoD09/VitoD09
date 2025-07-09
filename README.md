@@ -1,5 +1,6 @@
-### *Olá, sou o Vitor.👋*
-##### *Estudante com um objetivo simples: aprender, errar e melhorar. Se tiver código aqui, é porque eu tô tentando.*
+ **Olá, sou o Vitor.👋**
+ ***
+ *Estudante com um objetivo simples: aprender, errar e melhorar. Se tiver código aqui, é porque eu tô tentando.*
 <table>
   <tr>
     <td>
