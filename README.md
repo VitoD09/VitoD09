@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Vitor.
+👋 Olá! Eu sou o Vitor
 <table>
   <tr>
     <td>
