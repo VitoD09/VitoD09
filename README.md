@@ -10,6 +10,7 @@
       />
     </td>
     <td>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?VitoD09=anuraghazra&show_icons=true&theme=transparent)
       <img 
         alt="GitHub Top Langs" align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoD09&include_all_commits=true&theme=dark&layout=compact&custom_title=Estudos&langs_count=9&cache_seconds=86400"
