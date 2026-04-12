@@ -31,4 +31,3 @@ Estudante com um objetivo simples: aprender, errar e melhorar. Se tiver código 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitoD09/VitoD09/output/github-contribution-grid-snake-dark.svg?palette=gruvbox">  
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VitoD09/VitoD09/output/github-contribution-grid-snake.svg?palette=gruvbox">  
 </picture>  
-Meu perfil atualmente está assim 
