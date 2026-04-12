@@ -1,34 +1,42 @@
-<h3 align="center">Pressione START para continuar... 👾</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=180&section=header&text=VitoD09&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="VitoD09 Header">
+</h1>
 
 <p align="center">
-  <em>"A jornada de um dev é como um jogo indie em acesso antecipado: cheio de bugs para corrigir, novas mecânicas para aprender e bosses de lógica para derrotar."</em><br><br>
-  Atualmente grindando XP no 3º ano do Ensino Médio e focando minha main quest em <b>Java</b>. Comecei a buildar essa skill agora, com o objetivo de expandir meu inventário para o back-end no futuro. Se tem código por aqui, é porque ainda estou no modo treino, errando, refatorando e subindo de level.
+  <b>Estudante do 3º ano. Explorando a lógica.</b><br>
+  Foco atual: <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white" Alt="Java">.<br>
+  A jornada continua...
 </p>
 
-<table>  
-  <tr>  
-    <td>  
-      <img   
-        alt="GitHub Stats" align="center"  
-        src="https://github-readme-stats.vercel.app/api?username=VitoD09&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=dark"   
-      />  
-    </td>  
-    <td>  
-      <img   
-        alt="GitHub Top Langs" align="center"  
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoD09&include_all_commits=true&theme=dark&layout=compact&custom_title=XP%20Adquirida&langs_count=9&cache_seconds=86400"  
-      />  
-      <br><br>
-      <div align="center">  
-        <img align="center" alt="Vito-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-        <img align="center" alt="Vito-JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />     
-        <img align="center" alt="Vito-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-        <img align="center" alt="Vito-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-      </div>  
-    </td>  
-  </tr>  
-</table>  
+<hr>
 
+<h3 align="center">System Status</h3>
+
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=VitoD09&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
+  />
+  <img 
+    alt="GitHub Top Langs" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoD09&layout=compact&langs_count=8&theme=radical&hide_border=true"
+  />
+</div>
+
+<hr>
+
+<h3 align="center">Tech Stack / Inventory</h3>
+
+<div align="center">
+  <img alt="Vito-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;
+  <img alt="Vito-JS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
+  <img alt="Vito-C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;
+  <img alt="Vito-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
+  <img alt="Vito-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
+</div>
+
+<br>
+<hr>
 <br>
 
 <picture>  
